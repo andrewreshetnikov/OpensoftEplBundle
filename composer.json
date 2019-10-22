@@ -3,7 +3,7 @@
     "type":        "symfony-bundle",
     "description": "OpensoftEplBundle is wrapper for opensoft/epl library",
     "keywords":    ["Symfony", "epl2", "epl"],
-    "homepage":    "https://github.com/opensoft/OpensoftEplBundle",
+    "homepage":    "https://farheapsolutions.visualstudio.com/ProFIT/_git/OpensoftEplBundle",
     "license":     "MIT",
     "authors": [
         {
